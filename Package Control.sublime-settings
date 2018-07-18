@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"EJS",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"Vue Syntax Highlight"
+	]
+}
