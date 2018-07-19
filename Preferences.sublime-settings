@@ -8,10 +8,9 @@
 		"CVS",
 		"node_modules"
 	],
-	"font_size": 14,
+	"font_size": 10,
 	"ignored_packages":
 	[
-		"Mercurial for Sublime",
 		"Vintage"
 	],
 	"scroll_past_end": true,
