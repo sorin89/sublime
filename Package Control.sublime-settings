@@ -7,7 +7,6 @@
 	[
 		"Babel",
 		"EJS",
-		"FileDiffs",
 		"Git",
 		"GitGutter",
 		"Gulp",
@@ -15,6 +14,7 @@
 		"Modific",
 		"Package Control",
 		"Pug",
+		"Sublimerge 3",
 		"TypeScript Syntax",
 		"Vue Syntax Highlight"
 	]
